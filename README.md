@@ -9,7 +9,8 @@
 |T126585|[食物管理](https://www.luogu.com.cn/problem/T126585)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|比赛赛题|暂无|
 |T126586|[文明用喵](https://www.luogu.com.cn/problem/T126586)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|公众可见|暂无|
 |T128118|[小猫の奇妙数字](https://www.luogu.com.cn/problem/T128118)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|公众可见|暂无|
-|T128252|[小猫の自杀](https://www.luogu.com.cn/problem/T128252)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|公众可见|暂无|
+|T128252|[小猫の自杀](https://www.luogu.com.cn/problem/T128252)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|公众可见[题解]
+(https://www.luogu.com.cn/paste/jeq55esy)
 |T129277|[小猫的幸福度](https://www.luogu.com.cn/problem/T129277)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|公众可见|暂无|
 |T129567|[小猫の能力](https://www.luogu.com.cn/problem/T129567)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|公众可见|暂无|
 |T129741|[计算猫薄荷](https://www.luogu.com.cn/problem/T129741)|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|比赛赛题|暂无|
